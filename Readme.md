@@ -108,3 +108,4 @@ Start a small, standalone blockchain network with an authority set of private va
     ./target/release/node-template key generate --scheme Sr25519 --password-interactive  
     We  now have the Sr25519 (SS58) key for producing blocks using aura for one node.
     * The secret phase can be used to derive the keys
+    test
